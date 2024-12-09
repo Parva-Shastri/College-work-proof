@@ -1,1 +1,41 @@
-Parva's work proof details
+INTERNSHIP VERIFICATION FORM  
+
+1. Intern Information:  
+   - Name: Parva Shastri  
+   - Contact Email: 2201031000120@silveroakuni.ac.in  
+
+2. Internship Details:  
+   - Organization Name: Staytuned LLP  
+   - Internship Duration:  
+     - Start Date: 12th June 2023  
+     - End Date: 30th May 2025  
+   - Mode: On-site  
+
+3. Work Summary:  
+
+   - Key Role/Responsibilities: Designer  
+     - Created user-centric designs for platforms.  
+     - Collaborated with teams to conceptualize and refine prototypes and interfaces.  
+     - Ensured consistency in design elements across multiple projects.  
+
+   - Projects Contributed:  
+
+     1. Variables Pro Plugin design:  
+        - Designed a seamless interface for a plugin that allows designers to swap, import, and export variables across multiple files.  
+        - Focused on ensuring an intuitive and efficient workflow for managing variables within projects.  
+
+     2. Interface Project Prototype:  
+        - Worked with the team to design the prototype for the no-code tool that enables users to build applications with AI integration.  
+        - Developed user-friendly layouts and interactive elements to simplify user navigation and interactions.  
+
+     3. VenueHub Platform Design:  
+        - Designed the interface for a venue booking and scheduling platform, ensuring a visually appealing and easy-to-use experience.  
+        - Focused on layouts that enhance user engagement and streamline the booking process.  
+
+     4. Web Stories Platform Design:  
+        - Contributed to designing the platform for viewing web stories across various topics.  
+        - Developed creative and responsive designs that support storytelling and improve user experience.  
+
+4. Verified by Organization:  
+   - Verifier Name: Bhaumin Patel  
+   - Verifier Contact Email: hello@staytuned.company  
