@@ -1,1 +1,38 @@
-Dhruv's work proof details
+INTERNSHIP VERIFICATION FORM  
+
+1. Intern Information:  
+   - Name: Dhruv Dabhi  
+   - Contact Email: 2201031000019@silveroakuni.ac.in  
+
+2. Internship Details:  
+   - Organization Name: Staytuned LLP  
+   - Internship Duration:  
+     - Start Date: 12th June 2023  
+     - End Date: 30th May 2025  
+   - Mode: On-site  
+
+3. Work Summary:  
+   - Key Role/Responsibilities: Full Stack Developer  
+     - Developing both front-end and back-end components of web applications.  
+     - Ensuring scalability and performance of applications.  
+     - Debugging and optimizing existing codebases.  
+
+   - Projects Contributed To:  
+     1. Interface:  
+        - Developed a no-code tool with advanced AI integration, allowing users to create applications without requiring programming skills.  
+        - Implemented support for dynamic variables, enabling users to configure data inputs and outputs flexibly.  
+        - Enhanced user interface for seamless user experiences with drag-and-drop features.  
+
+     2. VenueHub:  
+        - Built a platform for venue booking and scheduling that simplifies the process of reserving spaces for occasions directly from the application.  
+        - Integrated real-time availability tracking and payment gateway support.  
+        - Developed user-friendly dashboards for both customers and venue providers.  
+
+     3. Inspect Design System:  
+        - Created a component library with extensive custom theming capabilities, enabling consistent branding across applications.  
+        - Developed predefined variables and theming support to allow seamless integration with existing projects.  
+        - Enhanced reusability and scalability by adhering to modular design principles.  
+
+4. Verified by Organization:  
+   - Verifier Name: Bhaumin Patel  
+   - Verifier Contact Email: hello@staytuned.company  
