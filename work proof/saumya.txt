@@ -1,1 +1,38 @@
-Saumya's work proof details
+INTERNSHIP VERIFICATION FORM  
+
+1. Intern Information:  
+   - Name: Saumya Shah  
+   - Contact Email: 2201031000119@silveroakuni.ac.in  
+
+2. Internship Details:  
+   - Organization Name: Staytuned LLP  
+   - Internship Duration:  
+     - Start Date: 12th June 2023  
+     - End Date: 30th May 2025  
+   - Mode: On-site  
+
+3. Work Summary:  
+
+   - Key Role/Responsibilities: Backend Developer  
+     - Designed and implemented scalable back-end architectures for web applications.  
+     - Developed APIs for efficient data exchange and seamless integration between front-end and back-end systems.  
+     - Ensured database optimization and overall system performance.  
+
+   - Projects Contributed To:  
+
+     1. Web Stories:  
+        - Contributed to building a platform for browsing web stories on various topics, providing users with engaging, interactive content.  
+        - Specifically worked on:  
+          - BookStories: Developed back-end functionality to manage and serve stories related to books, including categorization, content fetching, and user preferences.  
+          - TripStories: Focused on creating back-end support for travel-related stories, implementing features like location tagging, trip suggestions, and user-tailored content recommendations.  
+
+     2. Template Project:  
+        - Built a base project structure designed to enable AI-driven development, ensuring the framework could adapt to various project requirements.  
+        - Implemented modular components for essential back-end functionalities, including user authentication, data management, and AI integration support.  
+
+     3. VenueHub:  
+        - Contributed to the back-end development of the venue booking platform, focusing on ensuring real-time availability tracking, secure payment processing, and system reliability.  
+
+4. Verified by Organization:  
+   - Verifier Name: Bhaumin Patel  
+   - Verifier Contact Email: hello@staytuned.company  
